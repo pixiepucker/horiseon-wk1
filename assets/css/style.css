@@ -108,10 +108,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /*benefits style end*/
 
-/*picture style start*/
+/*hero imgs style start*/
 .content-images {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,8 +128,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/*picture style end*/
+/*hero imgs style end*/
 
 .footer {
     padding: 30px;
