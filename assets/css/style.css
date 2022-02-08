@@ -76,6 +76,8 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    position: relative;
+    top: 825px;
 }
 /*hero style end*/
 
